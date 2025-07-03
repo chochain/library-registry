@@ -5,6 +5,7 @@ https://github.com/TheBlackSwitch/PS2Keyboard
 https://github.com/aiplayuser/esp8266easylib.git
 https://github.com/Circuit-Digest/GeoLinkerLite
 https://github.com/RacoonX65/LightweightIoT-Arduino-Lib
+https://github.com/RacoonX65/CalibrationLib.git
 https://github.com/RCmags/CN0391
 https://github.com/Init-io/InitMQTT.git
 https://github.com/Init-io/InitJson.git
@@ -144,7 +145,7 @@ https://github.com/Moarbue/FIR-Filter
 https://github.com/Morgritech/MT-arduino-rotary-encoder
 https://github.com/CIRCUITSTATE/CSE_ZH06
 https://github.com/ropg/spi_lcd_read
-https://github.com/FoltaBozZ/fvs-esp32-bib
+https://github.com/trs-fvs/fvs-esp32-bib
 https://github.com/botnroll/BnrOneAPlus
 https://github.com/toaha63/BanglaDuino
 https://github.com/Moarbue/MAX31855-library
@@ -6592,7 +6593,7 @@ https://github.com/sstaub/TickTwo
 https://github.com/sstaub/Timer
 https://github.com/ssuhrid/EmSevenSegment
 https://github.com/St3p40/EMFButton
-https://github.com/Staacks/phyphox-arduino
+https://github.com/phyphox/phyphox-arduino
 https://github.com/Stan-Reifel/ArduinoUserInterface
 https://github.com/Stan-Reifel/FlexyStepper
 https://github.com/Stan-Reifel/SpeedyStepper
@@ -8054,7 +8055,6 @@ https://github.com/vincentmuriithi/kari
 https://github.com/codingABI/KY040
 https://github.com/iavorvel/MyButton
 https://github.com/auralius/yapid
-https://github.com/LostInCompilation/PrettyOTA
 https://github.com/53175ddd/sound
 https://github.com/brooksbUWO/Debounce
 https://github.com/serifpersia/ESP32MidiPlayer
@@ -8178,3 +8178,4 @@ https://github.com/SNP-FIT/ampify-soil-moisture-sensor
 https://github.com/msnicklous/BufferedTrace
 https://github.com/HS3UKA/HS3UKA_PCF8574
 https://github.com/muhpuc40/MacRandomizer
+https://github.com/faisalill/BMP390
